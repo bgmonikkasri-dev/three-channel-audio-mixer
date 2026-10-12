@@ -2,6 +2,8 @@
 
 An interactive project report and simulation overview for a **Three-Channel Audio Mixer** utilizing operational amplifiers.
 
+🌐 **Live Demo:** [https://bgmonikkasri-dev.github.io/three-channel-audio-mixer/](https://bgmonikkasri-dev.github.io/three-channel-audio-mixer/)
+
 ## Overview
 Design and simulation of an analog electronics circuit that combines three independent audio signals into a single unified output, allowing independent level/gain adjustments for each input channel.
 
